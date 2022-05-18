@@ -1,0 +1,10 @@
+Logger: es una forma de registrar todas las acciones que estamos realizando
+en un documento externo.
+
+Clases -CRM
+
+Product
+Client
+Invoice
+Supplier
+Marketing (promotions)

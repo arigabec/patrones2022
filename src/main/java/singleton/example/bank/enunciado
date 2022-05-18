@@ -1,0 +1,10 @@
+Ejemplo del banco:
+
+
+
+
+Cajero
+Sucursal
+BancaMovil
+Person
+AccountAdmin -> Singleton

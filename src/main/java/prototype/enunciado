@@ -1,0 +1,18 @@
+En el estadio Hernando Siles se tiene un partido importante de las clasificatorias, y se ponen a la venta varias
+entradas
+
+Equipo local
+Equipo visitante
+Nro de asiento
+Fecha
+Lugar
+Precio
+Estadio
+Persona
+
+Crear varias entradas (4)
+* Entrada -> Concrete Prototype
+* IEntrada -> IPrototype clone
+* Equipo
+* Estadio
+* Persona

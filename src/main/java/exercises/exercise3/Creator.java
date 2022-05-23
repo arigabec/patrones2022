@@ -1,7 +1,5 @@
 package exercises.exercise3;
 
-import factoryMethod.example.heladeria.IHelado;
-
 public abstract class Creator {
     public Creator(){}
 

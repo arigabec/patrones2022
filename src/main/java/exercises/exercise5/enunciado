@@ -1,0 +1,15 @@
+Se tiene una expresion que se escribe en numeros naturales (1 -- 10) <<----- input
+Se quiere interpretar estos en numeros romanos << ----- output
+
+Ejemplo:
+
+1 2 3 4 5 6 7 8 9 10 ----> I II III IV V VI VII VIII IX X
+
+1 5 ---->  I  V
+
+Context ->  input String
+            output String
+
+AbstractExpression -> AbstractExpression
+TerminalExpression -> Terminal1 ... Terminal10
+NonTerminalExpression -> Interpreter

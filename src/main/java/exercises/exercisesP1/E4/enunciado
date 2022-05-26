@@ -1,0 +1,6 @@
+4) (Abstract Factory) Se debe realizar la inscripción de los estudiantes (name, ci) a los cursos existentes utilizando
+la opción de 'inscribirse'. Los cursos que conocemos son Matemáticas, Lenguaje, Historia e Inglés. 5 estudiantes deben
+inscribirse a alguna materia (tienen informacion de su contenido minimo).
+
+FactoryProduct -> FactoryMateria
+ConcreteProduct -> Matematicas, Lenguaje, Historia, Ingles

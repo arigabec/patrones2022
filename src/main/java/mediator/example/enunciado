@@ -1,0 +1,4 @@
+Se tiene un canal de comunicación que se llama SLACK, este canal de comunicaión es empresarial, donde existen QA, DEV, SM.
+Cuando un QA envía un mensaje, envía a todos los QA registrados.
+Cuando un SM envía un mensaje, envía a todos los que están registrados, esto quiere decir que se envía a QA/DEV/SM.
+Cuando un DEV envía un mensaje envía a todos los DEV.

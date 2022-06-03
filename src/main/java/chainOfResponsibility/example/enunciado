@@ -1,0 +1,6 @@
+Se tiene un programa que controla el proceso para obtener carnets en Bolivia.
+- Requisitos (certificadoNacimiento, pagoBanco, fichaAtencion) -> Segip - Carnet
+- Nos falta certificado de nacimiento -> Notario
+- Nos falta pago al banco -> Cajero (Banco)
+- Nos falta ficha de atencion -> Organizador Fichas
+- Nos falta más de un requisito -> Atención al Cliente

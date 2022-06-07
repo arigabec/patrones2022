@@ -1,0 +1,5 @@
+Se tiene un juego donde se tienen acciones de disparar, modo defensa, atacar.
+Se desea mover estas acciones a comandos específicos y ejecutarlos en el mismo orden
+que se guardó.
+
+- Usar solo un método para ejecutar todos los comando guardados.

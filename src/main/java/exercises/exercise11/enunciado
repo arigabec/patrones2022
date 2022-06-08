@@ -1,0 +1,13 @@
+Se tiene una compañia telefonica que tiene muchos clientes, y la forma de poder enviar
+propaganda de diferentes actividades de la empresa es mediante notificaciones.
+Los usuarios eligen que tipo de notificaciones desean recibir:
+
+- Notificaciones :
+            Precios de las llamadas
+            Promociones
+            Premios
+            Noticias
+
+- ejemplo: premios, promos
+- ejemplo: noticias
+- ejemplo: precios de las llamadas, promociones, premios, noticias

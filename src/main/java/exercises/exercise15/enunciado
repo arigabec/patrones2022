@@ -1,0 +1,7 @@
+(Adapter) Se tiene una empresa de artefactos electrónicos (celulares, tablets,computadoras -->
+method: precio / tiempoDeVida). Esta empresa absorbe otra empresa de artefactos
+electrónicos (televisores,lavadoras, refrigeradores --> method : costo / tiempodeGarantia).
+Ambas estructuras son diferentes pero se desea adaptar a la primera estructura.
+
+IEmpresa1 (precio, tiempoDeVida) -> Celular, Tablet, Computadora
+IEmpresa2 (costo, tiempodeGarantia) -> Televisor, Lavadora, Refrigerador

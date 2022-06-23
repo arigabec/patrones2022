@@ -1,0 +1,11 @@
+Se quiere tener un administrador de tareas para metodologias agiles parecido a la
+plataforma "trello/jira", donde todos los objetos que tenemos se basaran en un objeto
+llamado entidad, donde esta entidad tiene un titulo, tiempo de estimacion (h), prioridad, descripcion.
+
+Se necesita el tiempo de estimacion del objecto mas pequeño hasta el objeto mas grande.
+
+Task (entidad) -> Leaf
+Userstory -> Composite
+Feature -> Composite
+Epic -> Composite
+Component -> Component

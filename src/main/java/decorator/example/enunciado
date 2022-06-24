@@ -1,0 +1,11 @@
+Se tienen distintos IDEs de programacion como ser: IntelliJ IDEA y el Eclipse. Estos tienen precio, licencia, tamano,
+version. Una empresa desea crear plugins para estos IDEs, algunos plugins son gratuitos y otros tienen costo.
+El IDE puede instalar y agregar la funcionalidad de los plugins cuando se necesite.
+
+- pluginTest, pluginDeploy, pluginDebug
+
+
+* IComponent -------------------> IDE
+    > ConcreteComponent --------> IntelliJ / Eclipse
+    > Decorator ----------------> PluginIDE
+    >> ConcreteDecorator -------> pluginTest/pluginDeploy/pluginDebug
